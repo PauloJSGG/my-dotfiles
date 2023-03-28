@@ -192,6 +192,7 @@ brew 'gh'             # Interact with GitHub PRs, issues, repos
 # Personal Applications
 cask 'keepassxc'
 cask 'vnc-viewer'
+cask 'whatsapp'
 # cask '1password'      # Password manager (proprietary)
 # cask 'tresorit'       # Encrypted file backup (proprietary)
 # cask 'standard-notes' # Encrypted synced notes
@@ -202,8 +203,8 @@ cask 'vnc-viewer'
 # cask 'protonvpn'      # Client app for ProtonVPN
 
 # Browsers
-cask 'firefox'
-# cask 'chromium'
+# cask 'firefox'
+cask 'chromium'
 # cask 'orion'
 
 #############################################################
