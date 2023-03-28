@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But not these files...
+!*.bashrc
+!*.config/
+!.brewfile
+!.zshrc
+!.zprofile
+!.gitignore
+!.tmux.conf
+# etc...
+
