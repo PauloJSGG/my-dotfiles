@@ -11,3 +11,5 @@
 !.tmux.conf
 # etc...
 
+.config/zsh/.zsh_sessions
+
